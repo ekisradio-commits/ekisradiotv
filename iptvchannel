@@ -1,1 +1,1 @@
-https://eu1.servers10.com:8081/dhfkkybjug/index.m3u8
+https://streamtwo.cloudhostservers.com:3216/hybrid/play.m3u8
